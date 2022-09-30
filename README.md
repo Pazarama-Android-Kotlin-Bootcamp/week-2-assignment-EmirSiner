@@ -2,7 +2,7 @@
 
 ## Ödev 1 
 
-Lifecyle Nedir? Nasıl yönetiriz? Ne gibi problemler olur ve nasıl kaçarız?
+    Lifecyle Nedir? Nasıl yönetiriz? Ne gibi problemler olur ve nasıl kaçarız?
 
 ## Ödev 2
 
